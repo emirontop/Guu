@@ -1,41 +1,38 @@
-# Obsidian UI - Forked Version
+# Obsidian UI - Modified Version
 
-> ⚠️ **Uyarı:** Bu bir *fork/değiştirilmiş sürüm*dür. Orijinal geliştirici bu versiyonla ilişkili değildir.
-
-## 📌 Hakkında
-
-Bu proje, **Obsidian UI** adlı açık kaynak bir GUI kütüphanesinin fork'lanmış ve yeniden düzenlenmiş bir sürümüdür. Kullanım amacı eğitimsel ve kişisel projelerde referans olarak kullanmaktır.
-
-Orijinal proje **X** adına kayıtlıdır ve tüm temel kod yapısı ona aittir. Ben bu repoyu geliştirici izni olmadan kullandım, ancak proje açık kaynak (MIT/diğer) olduğundan dolayı bu yasalara uygundur.
+> ⚠️ **Disclaimer:** This is a modified and re-uploaded version of the original open-source **Obsidian UI** project. I am **not the original creator**, and I take no credit for the original development.
 
 ---
 
-## 📄 Orijinal Geliştirici
+## 📘 About
 
-- 👤 Geliştirici: **X**
-- 🌐 GitHub: [https://github.com/X](https://github.com/X) *(orijinal proje burada bulunabilir)*
+This repository contains a custom-modified version of the **Obsidian UI** system originally created by [@deividcomsono](https://github.com/deividcomsono).  
+The original project is released under the [MIT License](#license), which permits reuse, modification, and redistribution — provided that credit is properly given and the license is preserved.
 
----
-
-## ✅ Kredi ve Teşekkür
-
-Bu proje, temel olarak X tarafından oluşturulan **Obsidian UI**'nin üzerine inşa edilmiştir. Orijinal kod yapısı, stil, işlevsellik ve genel mimari tamamen X’in emeğidir.
-
-Ben yalnızca:
-- Küçük özelleştirmeler
-- Kendi sistemime entegrasyon
-- Belki birkaç UI düzeltmesi yapmış olabilirim.
-
-Tüm haklar orijinal yazara aittir.
+All core GUI logic, visual design, and foundational architecture were created by **deividcomsono**, and full credit belongs to them.
 
 ---
 
-## 🔒 Lisans
+## 🙏 Credits
 
-Bu proje, orijinal Obsidian UI ile aynı lisans altında paylaşılmaktadır. Lütfen `LICENSE` dosyasını kontrol ediniz.
+- 👤 **Original Author:** [deividcomsono](https://github.com/deividcomsono)
+- 🧱 **Original Project:** Obsidian UI
+- ⚠️ This fork is **not affiliated with or endorsed** by the original author.
 
 ---
 
-## 🛠️ Not
+## 🛠️ What I Changed
 
-Kodun izinsiz alınmış olması etik olmayabilir, fakat **açık kaynak** doğası gereği paylaşılması mümkündür. Bu nedenle tüm hakları ve teşekkürü **X**'e iletiyorum. Eğer X bu repo hakkında kaldırılmasını ya da referansın değişmesini isterse iletişime geçebilir.
+This version includes light modifications such as:
+
+- Slight layout tweaks for personal needs
+- Minor adjustments for internal use
+- Integration with my own script hub/system
+
+> No major logic or architecture was changed. This is not a rewrite — it is a respectful fork.
+
+---
+
+## 📜 License
+
+This project continues to use the original [MIT License](https://opensource.org/licenses/MIT), as required:
